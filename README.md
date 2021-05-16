@@ -15,4 +15,4 @@ Resources used:
 For the entire Furniture product review file, the majority has a small Amazon Vine review: 
 ![vine](https://github.com/kushalishah/Amazon_Vine_Analysis/blob/main/Images/vine_novine_reviews.png)
 
-
+fghjkl
