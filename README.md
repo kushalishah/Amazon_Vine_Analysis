@@ -26,4 +26,9 @@ In General, the 5 star non-Vine reviews are higher than the Vine reviews.
 ![pct5star](https://github.com/kushalishah/Amazon_Vine_Analysis/blob/main/Images/percent_5star_reviews.png)
 
 
+### SUMMARY
 
+The majority of reviews for the Furniture product are almost nothing or in fact lower than those from Vine participants. Overall, all 5 Star reviews that are the same as the Furniture, all are from Vine participants. However, I can confirm that not all 5 Star reviews are coming from Vine participants. 54% and 45% 5 star reviews are from the vine and non-vine participants respectively. Therefore, there I confirm that there is still some bias in this analysis.
+
+Below is a recommendation for further analysis:
+- Performing a statistical analysis to determine the mean, median and mode of the star rating the Vine and non-Vine reviews would be helpful in minimizing future bias.
