@@ -15,4 +15,15 @@ Resources used:
 For the entire Furniture product review file, the majority has a small Amazon Vine review: 
 ![vine](https://github.com/kushalishah/Amazon_Vine_Analysis/blob/main/Images/vine_novine_reviews.png)
 
-fghjkl
+**5 Star Reviews Vine vs Non-Vine:** 
+For the entire review dataset, I found a few 5 Star reviews from Vine reviews:
+![5star](https://github.com/kushalishah/Amazon_Vine_Analysis/blob/main/Images/5star_reviews.png)
+
+**Percentage of Vine Reviews are 5-star:**  
+For all the Vine Reviews, I found almost the same reviews, perhaps a little lower ratings than 5 Star.
+**Percentage of Non-Vine Reviews are 5-star:** 
+In General, the 5 star non-Vine reviews are higher than the Vine reviews.  
+![pct5star](https://github.com/kushalishah/Amazon_Vine_Analysis/blob/main/Images/percent_5star_reviews.png)
+
+
+
